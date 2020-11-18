@@ -1,5 +1,5 @@
 #! /bin/bash
-# zip.sh
+# username.sh
 # author
 echo "Enter a password which only includes lower case letters, digits, and the underscore charachter: "
 read PASSWORD
